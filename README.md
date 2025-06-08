@@ -4,7 +4,8 @@
 
 Proyek ini merupakan bagian dari inisiatif *Manajemen Data Statistika* (MDS) yang berfokus pada pengumpulan, penyimpanan, dan analisis data dari platform e-commerce. Pada studi kasus ini, kami melakukan scraping data penjualan **parfum** dari Tokopedia pada **empat toko populer**:
 
-<img width="388" alt="Image" src="https://github.com/user-attachments/assets/626432f0-4bd4-42dc-b3cf-f64f2f41abce" />
+Brand parfum best seller berdasarkan peringkat dari website Markethac
+<img width="896" alt="Image" src="https://github.com/user-attachments/assets/1c35c33f-9b79-4ea1-bb02-508b6cdeef3d" />
 
 - HMNS  
 - Mykonos  
