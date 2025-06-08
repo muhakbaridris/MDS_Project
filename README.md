@@ -49,6 +49,15 @@ Pemilihan kategori *parfum* didasarkan pada tingginya **rating pengguna** dan ju
 - Penyimpanan data real-time di MongoDB Atlas.
 - Visualisasi produk-produk parfum terlaris di antara keempat toko.
 - Menyusun **Top 5 Produk Parfum Terlaris** berdasarkan penjualan tertinggi.
+  
+Top 5 Rekomendasi
+  <img width="896" alt="Image" src="https://github.com/user-attachments/assets/9f2fdc87-d3ff-41d6-a23d-abcab1b69489" />
+  
+Top 5 Budget For 200k
+  <img width="889" alt="Image" src="https://github.com/user-attachments/assets/26da5417-06b9-4ba2-bf1e-609a630b89ee" />
+
+Top 5 Budget For 100k
+  <img width="896" alt="Image" src="https://github.com/user-attachments/assets/9f2fdc87-d3ff-41d6-a23d-abcab1b69489" />
 
 ## 🛡️ Etika Scraping
 
@@ -85,7 +94,4 @@ Jika ingin menambahkan toko atau kategori lain, cukup ubah parameter scraping pa
 Proyek ini dapat dikembangkan lebih lanjut untuk visualisasi interaktif menggunakan Streamlit atau Dash.
 
 ## 🧑‍💻 Kontributor
-- Muh Akbar Idris – Data Engineer & Analis Statistika
-- Muh Rizal
-- Carlya
-- Inov
+<img width="764" alt="Image" src="https://github.com/user-attachments/assets/c0100ae7-27af-46f7-8e95-c8b3ed3b446e" />
