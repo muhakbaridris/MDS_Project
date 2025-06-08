@@ -4,6 +4,8 @@
 
 Proyek ini merupakan bagian dari inisiatif *Manajemen Data Statistika* (MDS) yang berfokus pada pengumpulan, penyimpanan, dan analisis data dari platform e-commerce. Pada studi kasus ini, kami melakukan scraping data penjualan **parfum** dari Tokopedia pada **empat toko populer**:
 
+<img width="388" alt="Image" src="https://github.com/user-attachments/assets/626432f0-4bd4-42dc-b3cf-f64f2f41abce" />
+
 - HMNS  
 - Mykonos  
 - Octarine  
