@@ -94,5 +94,19 @@ Jika ingin menambahkan toko atau kategori lain, cukup ubah parameter scraping pa
 
 Proyek ini dapat dikembangkan lebih lanjut untuk visualisasi interaktif menggunakan Streamlit atau Dash.
 
+## 📈 Data Scraping Analysis
+
+Berikut merupakan link RPubs data scraping analysis:  
+📎 **[Data Scraping and Visualization](https://colab.research.google.com/drive/1id2nHpYixufnqX_CooeHArZ75Ds1mKdb?usp=sharing))**
+
+---
+
+## 📚 PPT
+
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat:  
+📎 **[PPT Data Scraping and Visualization](https://github.com/muhakbaridris/MDS_Project/blob/d41d64cf8b61273e09b7d3ae2ee83d2095318b00/Presentation.pdf)**
+
+---
+
 ## 🧑‍💻 Kontributor
 <img width="764" alt="Image" src="https://github.com/user-attachments/assets/c0100ae7-27af-46f7-8e95-c8b3ed3b446e" />
