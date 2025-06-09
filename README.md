@@ -96,7 +96,7 @@ Proyek ini dapat dikembangkan lebih lanjut untuk visualisasi interaktif mengguna
 
 ## 📈 Data Scraping Analysis
 
-Berikut merupakan link RPubs data scraping analysis:  
+Berikut merupakan link data scraping analysis:  
 📎 **[Data Scraping and Visualization](https://colab.research.google.com/drive/1id2nHpYixufnqX_CooeHArZ75Ds1mKdb?usp=sharing))**
 
 ---
